@@ -1,16 +1,25 @@
 {
   "files": {
-    "main.css": "/robofriends/static/css/main.9bce24b5.css",
-    "main.js": "/robofriends/static/js/main.bc8c1ddb.js",
-    "static/js/453.eceb90f9.chunk.js": "/robofriends/static/js/453.eceb90f9.chunk.js",
-    "static/media/SEGA.woff": "/robofriends/static/media/SEGA.47b4bfa94ef243af4a5b.woff",
-    "index.html": "/robofriends/index.html",
-    "main.9bce24b5.css.map": "/robofriends/static/css/main.9bce24b5.css.map",
-    "main.bc8c1ddb.js.map": "/robofriends/static/js/main.bc8c1ddb.js.map",
-    "453.eceb90f9.chunk.js.map": "/robofriends/static/js/453.eceb90f9.chunk.js.map"
+    "main.css": "/ChrRepou/Personal-Portfolio/static/css/main.fe09c9d0.css",
+    "main.js": "/ChrRepou/Personal-Portfolio/static/js/main.daa2299a.js",
+    "static/js/453.ace21015.chunk.js": "/ChrRepou/Personal-Portfolio/static/js/453.ace21015.chunk.js",
+    "static/media/masterbrainDemo.png": "/ChrRepou/Personal-Portfolio/static/media/masterbrainDemo.e7471f0ac7d56a8e7390.png",
+    "static/media/masterbrain-API.jpg": "/ChrRepou/Personal-Portfolio/static/media/masterbrain-API.174e607e3a60226006d7.jpg",
+    "static/media/robofriendsDemo.png": "/ChrRepou/Personal-Portfolio/static/media/robofriendsDemo.7d07e3fdbaa97d3de899.png",
+    "static/media/home-main.png": "/ChrRepou/Personal-Portfolio/static/media/home-main.d28624bc6204c56cecdd.png",
+    "static/media/avatar.png": "/ChrRepou/Personal-Portfolio/static/media/avatar.6f4bffc781ec91562239.png",
+    "static/media/about.png": "/ChrRepou/Personal-Portfolio/static/media/about.ff4d202ae9aa9bcf1f00.png",
+    "static/media/ChristinaRepouCV.pdf": "/ChrRepou/Personal-Portfolio/static/media/ChristinaRepouCV.0fe18c005f3e9ecdb4c9.pdf",
+    "static/media/logo.png": "/ChrRepou/Personal-Portfolio/static/media/logo.3be5fa5dc0a432bec826.png",
+    "static/media/home-bg.jpg": "/ChrRepou/Personal-Portfolio/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/pre.svg": "/ChrRepou/Personal-Portfolio/static/media/pre.4410c5baaa673cc131da.svg",
+    "index.html": "/ChrRepou/Personal-Portfolio/index.html",
+    "main.fe09c9d0.css.map": "/ChrRepou/Personal-Portfolio/static/css/main.fe09c9d0.css.map",
+    "main.daa2299a.js.map": "/ChrRepou/Personal-Portfolio/static/js/main.daa2299a.js.map",
+    "453.ace21015.chunk.js.map": "/ChrRepou/Personal-Portfolio/static/js/453.ace21015.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9bce24b5.css",
-    "static/js/main.bc8c1ddb.js"
+    "static/css/main.fe09c9d0.css",
+    "static/js/main.daa2299a.js"
   ]
 }
