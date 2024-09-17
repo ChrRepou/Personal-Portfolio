@@ -1,7 +1,7 @@
 {
   "name": "portfolio",
   "version": "0.1.0",
-  "homepage": "https://ChrRepou.github.io/Personal-Portfolio/",
+  "homepage": "https://chrrepou.github.io/Personal-Portfolio/",
   "private": true,
   "dependencies": {
     "@react-pdf/renderer": "^2.2.0",
