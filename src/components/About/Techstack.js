@@ -21,8 +21,7 @@ import {
   SiStorybook,
   SiVite,
   SiWebpack,
-  SiIbeacon,
-  SiBabel
+  SiIbeacon
 } from "react-icons/si";
 
 function Techstack() {
